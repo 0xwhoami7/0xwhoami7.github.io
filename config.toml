@@ -9,7 +9,7 @@ title = "whoami's blog"
   avatarURL = "/images/avatar.png"
   description = "No pain, No pwn"
   showPostsOnHomePage = "recent"
-  footer = "© 2026 My New Hugo Site"
+  footer = "whoami's adventure in pwn"
   avatarSize = "size-s"
   socialIcons = [
     { name = "github", url = "https://github.com/0xwhoami7" }
